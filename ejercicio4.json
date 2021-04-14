@@ -1,0 +1,56 @@
+{
+	"Protagonistas":[
+		{	
+			"Nombre":"Martiño Rivas",
+			"Nombre de la Serie":"El internado",
+			"Mejores capitulos":[
+				{
+					"Nombre":"El Fin",
+					"ID":24
+					
+
+				}
+
+			],
+			"Imagen":"https://www.hola.com/imagenes/actualidad/20190509141807/primera-foto-hija-martino-rivas/0-677-804/martino-rivas-gtres-t.jpg"
+		},
+		{
+			"Nombre":"Pedro Alonso",
+			"Nombre de la Serie":"La casa de papel",
+			"Mejores capitulos":[
+				{
+					"Nombre":"La boda de Berlin",
+					"ID":15
+					
+
+				}
+
+			],
+			"Imagen":"https://i.pinimg.com/originals/2e/f9/2c/2ef92c2680a29b566e4e6f4cb6131aaf.jpg"
+
+		},
+		{
+			"Nombre":"Najwa Nimri",
+			"Nombre de la Serie":"Vis a visl",
+			"Mejores capitulos":[
+				{
+					"Nombre":"La marea amarilla",
+					"ID":43
+					
+
+				}
+
+			],
+			"Imagen":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/najwa-nimri-final-vis-a-vis-1549295302.jpg"
+
+		}
+
+
+
+
+
+	]
+
+
+
+}
