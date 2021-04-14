@@ -1,0 +1,39 @@
+{
+	"Nombre de ciudad":"Badajoz",
+	"Tiempo atmosferico":[
+		{	
+			"Dia":"12/04/2021",
+			"TemperaturaMaxima":"25ºC",
+			"TemperaturaMinima":"7ºC",
+			"Viento":"13km/h",
+			"Estado":{
+				"Nombre":"Soleado",
+				"Imagen":""
+			}			
+
+		},
+		{
+			"Dia":"13/04/2021",
+			"TemperaturaMaxima":"22ºC",
+			"TemperaturaMinima":"2ºC",
+			"Viento":"14km/h",
+			"Estado":{
+			"Nombre":"nublado",
+			"Imagen":""
+			}	
+		},
+	{
+		"Dia":"14/04/2021",
+		"TemperaturaMaxima":"27ºC",
+		"TemperaturaMinima":"4ºC",
+		"Viento":"15km/h",
+		"Estado":{
+		"Nombre":"lluvia",
+		"Imagen":""
+		}	
+	}
+
+	]
+	
+		
+}
