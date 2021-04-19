@@ -1,0 +1,56 @@
+{
+	"Protagonistas":[
+		{	
+			"Nombre":"Martiño Rivas",
+			"Nombre de la Serie":"El internado",
+			"Mejores capitulos":[
+				{
+					"Nombre":"El Fin",
+					"ID":24
+					
+
+				}
+
+			],
+			"Imagen":"./imagenes/58.jpg"
+		},
+		{
+			"Nombre":"Pedro Alonso",
+			"Nombre de la Serie":"La casa de papel",
+			"Mejores capitulos":[
+				{
+					"Nombre":"La boda de Berlin",
+					"ID":15
+					
+
+				}
+
+			],
+			"Imagen":"./imagenes/berlin.jpg"
+
+		},
+		{
+			"Nombre":"Najwa Nimri",
+			"Nombre de la Serie":"Vis a visl",
+			"Mejores capitulos":[
+				{
+					"Nombre":"La marea amarilla",
+					"ID":43
+					
+
+				}
+
+			],
+			"Imagen":"./imagenes/zulema.jpg"
+
+		}
+
+
+
+
+
+	]
+
+
+
+}
