@@ -1,0 +1,173 @@
+{
+	"Ropa":[
+		{
+			"NombrePrenda":"Camiseta",
+			"Stock":[
+				{
+					"Estilo":"Manga Corta",
+					"Marca":"Mike",
+					"Tallas":[
+						{
+							"Talla":"S"
+
+						},
+
+						{
+							"Talla":"M"
+						},
+						{
+							"Talla":"L"
+						}
+						
+					]
+				},
+				{
+					"Estilo":"Manga Larga",
+					"Marca":"Addidas",
+					"Tallas":[
+						{
+							"Talla":"M"
+						},
+						{
+							"Talla":"L"
+						}
+						
+					]
+				},
+				{
+					"Estilo":"Sin mangas",
+					"Marca":"Gordan",
+					"Tallas":[
+						{
+							"Talla":"M"
+						},
+						{
+							"Talla":"L"
+						},
+						{
+							"Talla":"XL"
+						}
+						
+					]
+				}
+				]
+
+		},
+		{
+			"NombrePrenda":"Pantalones",
+			"Stock":[
+				{
+					"Estilo":"Pantalon Corto",
+					"Marca":"Gordan",
+					"Tallas":[
+						{
+							"Talla":"S"
+
+						},
+
+						{
+							"Talla":"M"
+						},
+						{
+							"Talla":"XL"
+						}
+						
+					]
+				},
+				{
+					"Estilo":"Pantalon Corto",
+					"Marca":"Mike",
+					"Tallas":[
+						{
+							"Talla":"S"
+						},
+						{
+							"Talla":"M"
+						}
+						
+					]
+				},
+				{
+					"Estilo":"Pantalon Largo",
+					"Marca":"Addidas",
+					"Tallas":[
+						{
+							"Talla":"M"
+						},
+						{
+							"Talla":"XL"
+						}
+						
+					]
+				}
+				]
+
+			},
+			{
+			"NombrePrenda":"Zapatillas",
+			"Stock":[
+				{
+					"Estilo":"Baloncesto",
+					"Marca":"Gordan",
+					"Tallas":[
+						{
+							"Talla":"41"
+
+						},
+
+						{
+							"Talla":"43"
+						},
+						{
+							"Talla":"45"
+						}
+						
+					]
+				},
+				{
+					"Estilo":"Futbol",
+					"Marca":"Messirve",
+					"Tallas":[
+						{
+							"Talla":"40"
+						},
+						{
+							"Talla":"41"
+						},
+						{
+							"Talla":"42"
+						}
+						
+					]
+				},
+				{
+					"Estilo":"Baloncesto",
+					"Marca":"Mike",
+					"Tallas":[
+						{
+							"Talla":"44"
+						},
+						{
+							"Talla":"45"
+						},
+						{
+							"Talla":"46"
+						}
+
+						
+					]
+				}
+				]
+
+			}
+
+
+
+	]
+		
+
+
+
+
+
+}
